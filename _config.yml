@@ -18,15 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nandini Anant #site title; rename to something else
+title: Nandini Anant #still need a catchy title! 
 email: nandini.anant@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Nandini! Thanks for visiting my website. I apply my data analysis skills and research methodologies 
-  to better understand how and why humans engage in risky behaviour across various domains, 
-  how the outcomes of such behaviour affect them, and whether having social support can mitigate this. 
-  I enjoy devising new solutions to old theoretical problems and searching for simple, generalizable answers 
-  to broadly relevant issues in today's world. 
+  Hi, I'm Nandini. I apply my data analysis skills and research methodologies to better understand how and why humans engage in risky behaviour across various domains, how the outcomes of such behaviour affect them, and whether having social support can mitigate this. I enjoy devising new solutions to old theoretical problems and searching for simple, generalizable answers to broadly relevant issues in today's world. 
 
 
 

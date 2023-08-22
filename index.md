@@ -3,7 +3,7 @@ layout: profile
 pic: /images/anantn.jpg
 ---
 
-Hi there! I am an experimental social psychologist nagivating the intersection of risk-taking behaviour, social support and well-being in both digital and physical environments. I am currently a Research Scientist with the [Institute of High-Performance Computing](https://www.a-star.edu.sg/ihpc), a flagship inter-discplinary research institute of [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/) Singapore. 
+Hi there! I am an experimental social psychologist nagivating the intersection of risk-taking behaviour, social support and well-being in both digital and physical environments. I am currently a Scientist with the [Institute of High-Performance Computing (IHPC)](https://www.a-star.edu.sg/ihpc), a flagship interdiscplinary research entity of [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), a leading science, technology and research organisation in Singapore.  
 
 As part of the [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) Department and the [Social Sciences and Technology Horizontal Training Coordination Office](https://www.a-star.edu.sg/htco/sst), I lend my expertise in human behaviour and user research techniques to a range of [Projects](insert Projects hyperlink here). I also offer Final-Year Projects as a Supervisor for Masters and undergraduate students at James Cook University Singapore and Newcastle University (Singapore campus). 
 
