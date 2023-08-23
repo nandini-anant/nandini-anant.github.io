@@ -31,17 +31,17 @@ This study is an holistic approach to examine motivations and causes that lead i
 The Children’s Depression Inventory (CDI) is used globally in evaluating depressive symptom severity in adolescents, and its second version, the CDI-2, was developed by taking into account advances in childhood depression research. However, the CDI-2 has not yet been empirically validated with Southeast Asian populations. In this study we sought to empirically validate the CDI-2’s psychometric properties and evaluate its factorial structure with a Singaporean community sample of non-clinical respondents. Using data from the [Growing Up in Singapore Towards healthy Outcomes(GUSTO)](https://www.gusto.sg/), we show best fit for a hierarchical two-factor structure with factors namely, socio-emotional problems and cognitive-behavioural problems. This finding suggests that socio-cultural and demographic elements influence interpretation of depressive symptoms and therefore the emerging factor structure of the construct under scrutiny. This study highlights the need to further examine the CDI-2 and ensure that its interpretation is culture-specific.
 
 # 6. Supporting financial well-being in Singapore through Mindline 
-Under the guidance of [Dr. Ilya Farber](https://scholar.google.com.sg/citations?user=SfbjhOEAAAAJ&hl=en), the Cognitive Decision Sciences group in [SCC](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) worked with the MOH Office for Healthcare Transformation to develop [Mindline.sg](mindline.sg). This self-help tool provided tips and resources to help Singaporeans manage their health, functional and affective well-being through the COVID-19 pandemic. I was responsible for coming up with resources in the "I need financial support" section. 
+Under the guidance of [Dr. Ilya Farber](https://scholar.google.com.sg/citations?user=SfbjhOEAAAAJ&hl=en), the Cognitive Decision Sciences group in [SCC](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) worked with the MOH Office for Healthcare Transformation to improve [Mindline.sg](mindline.sg). This self-help tool provided tips and resources to help Singaporeans manage their health, functional and affective well-being through the COVID-19 pandemic. I was responsible for coming up with resources in the "I need financial support" section. 
 
 
-## Supervision 
+# Supervision 
 
-1. Maternal mental health and child mental health outcomes - Vanessa Lim, JCU 
-   Masters dissertation - completed
-2. Driver preferences in electric vehicle charging - Siti Zuhairah Binte Borhan, Newcastle University
-   Final-year project - in-progress
-3. Contactless charging of electric vehicles in Singapore - Ryan Ho Shaoquan, Newcastle University 
-   Final-year project - in-progress
+* Maternal mental health and child mental health outcomes - Vanessa Lim, JCU 
+   - Masters dissertation - completed
+* Driver preferences in electric vehicle charging - Siti Zuhairah Binte Borhan, Newcastle University
+   - Final-year project - in-progress
+* Contactless charging of electric vehicles in Singapore - Ryan Ho Shaoquan, Newcastle University 
+   - Final-year project - in-progress
 
 
 
