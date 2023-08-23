@@ -10,8 +10,11 @@ As part of the [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/i
 My current research focuses on cross-cultural factors that influence human attitudes, perceptions and behaviours across various domains, including online gaming, risk-taking behaviour and mental well-being. 
 
 I have over 8 years of combined academic and industry consulting experience in addressing complex and real-world issues using behavioural insights and causal inference approaches. I work with industry partners in digital healthcare, electrification of vehicles and consumer insights. Through these research collaborations, I have generated actionable insights on user behaviour and helped organizations create quantifiable value. 
+ 
 
-Think there's something we can chat about? Drop me an [email](mailto:nandini.anant@gmail.com)! 
+Think there's something we can chat about? Drop me an [email](mailto:nandini.anant@gmail.com)!
+
+
  
 
 
