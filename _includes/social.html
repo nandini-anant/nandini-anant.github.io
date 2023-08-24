@@ -13,5 +13,6 @@
   {%- if site.google_scholar_username -%}<li><a href="https://scholar.google.com/citations?user={{ site.google_scholar_username| cgi_escape | escape }}"><img class="svg-icon" src="{{ 'images/google-scholar.png' | relative_url }}"/> <span class="username">Google Scholar</span></a></li>{%- endif -%}
   {%- if site.research_gate_username -%}<li><a href="https://www.researchgate.net/profile/{{ site.research_gate_username| cgi_escape | escape }}"><img class="svg-icon" src="{{ 'images/researchgate.png' | relative_url }}"/> <span class="username">ResearchGate</span></a></li>{%- endif -%}
   {%- if site.orcid_id -%}<li><a href="https://orcid.org/{{ site.orcid_id| cgi_escape | escape }}"><img class="svg-icon" src="{{ 'images/orcid.png' | relative_url }}"/> <span class="username">{{ site.orcid_id| escape }}</span></a></li>{%- endif -%}
+  {%- if site.email -%}<li><a class="u-email" href="mailto:{{ site.email }}"><img class="svg-icon" src="{{ 'images/email.png' | relative_url }}"/> <span>{{ site.email }}</span></a></li>{%- endif -%}
   {%- if site.rss -%}<li><a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a></li>{%- endif -%}
 </ul>
