@@ -3,18 +3,15 @@ layout: profile
 pic: /images/anantn.jpg
 ---
 
-Hi there! I am an experimental social psychologist navigating the intersection of risk-taking behaviour, social support and well-being in both digital and physical environments. I am currently a Scientist with the [Institute of High-Performance Computing (IHPC)](https://www.a-star.edu.sg/ihpc), a flagship interdisciplinary research entity of [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), a leading science, technology and research organisation in Singapore.  
+Hi there! I'm a London-based consultant and user behaviour researcher looking for my next role. 
 
-As part of the [Social and Cognitive Computing](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/social-cognitive-computing) Department and the [Social Sciences and Technology Horizontal Training Coordination Office](https://www.a-star.edu.sg/htco/sst), I lend my expertise in human behaviour and user research techniques to a range of [Projects](nandinianant.com/projects/). I also offer Final-Year Projects as a Supervisor for Masters and undergraduate students at James Cook University Singapore and Newcastle University (Singapore campus). 
+I have over 7 years of global research and strategy experience in addressing complex and real-world issues using behavioural insights and causal inference approaches. I have worked with B2B and B2C partners in consumer goods, travel and transport, public sector, non-profit, healthcare and health-tech industries on a wide range of projects. I specialise in understanding user attitudes, predicting consumer behaviour and enhancing the user experience to help organisations create quantifiable value.
 
-My current research focuses on cross-cultural factors that influence human attitudes, perceptions and behaviours across various domains, including online gaming, risk-taking behaviour and mental well-being. 
+I am an experimental social psychologist by training, and I started my career as a user behaviour and consumer attitudes consultant and data analyst. As a result, I now think like a storyteller! 
 
-I have over 7 years of combined academic and industry-based experience in addressing complex and real-world issues using behavioural insights and causal inference approaches. I work with industry partners in digital healthcare, electrification of vehicles and consumer insights. Through these research collaborations, I have generated actionable insights on user behaviours and helped organizations create quantifiable value.  
- 
+I enjoy combining psychology and consumer theories with statistical analyses to craft compelling data-driven research narratives.
 
-Think there's something we can chat about? Drop me an [email](mailto:nandini.anant@gmail.com)!
-
-
- 
+Think there's something we can chat about? Drop me an [email](mailto:nandini@nandinianant.com)!
+     
 
 

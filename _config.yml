@@ -18,18 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nandini Anant #still need a catchy title! 
-email: nandini.anant@gmail.com
+title: Psychological Insights into User Behaviour #still need a catchy title! 
+email: nandini@nandinianant.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Nandini. I apply my data analysis skills and research methodologies to better understand how and why humans engage in risky behaviour across various domains, how the outcomes of such behaviour affect them, and whether having social support can mitigate this. I enjoy devising new solutions to old theoretical problems and searching for simple, generalizable answers to broadly relevant issues in today's world. 
+  Nandini is passionate about consumer insights and user behaviour in B2B and B2C tech and other industries. She has global research and strategy experience and is trained in quantitative and qualitative methods. Nandini holds a Ph.D in Psychology from the University of Nottingham and is a Chartered Psychologist registered with the British Psychological Society.   
 
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nandinianant.com"
-twitter_username: panakiea
-linkedin_username: nandini-anant-35267b11b
+linkedin_username: nandini-anant
 google_scholar_username:  Y4H_pm8AAAAJ
 research_gate_username: Nandini-Anant-2
 orcid_id: 0000-0003-4920-5755
